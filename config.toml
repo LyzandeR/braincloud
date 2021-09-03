@@ -10,7 +10,7 @@ paginate = "4"
 # Post excerpt length
 summaryLength = "30"
 # Disabled languages
-disableLanguages = []
+disableLanguages = ["it", "de", "fr"]
 # Short name to enable Disqus comments
 disqusShortname = "" # Get your shortname from here: https://disqus.com/profile/signup/
 # Measurement ID (G-XXXXXXX) to enable Google Analytics
@@ -229,6 +229,20 @@ hasChildren = true
 weight = 5
 name = "Più"
 
+################################# Greek translation ##########################
+[languages.gr]
+languageName = "Greek"
+languageCode = "gr-GR"
+contentDir = "content/greek"
+weight = 2
+copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Tutti i diritti riservati."
+
+# Navigation menus
+# NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
+[[languages.en.menu.main]]
+hasChildren = true
+weight = 5
+name = "Επιπλέον"
 
 ################################# German translation ##########################
 [languages.de]

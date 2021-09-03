@@ -1,5 +1,5 @@
 ---
-title: "Häufige Fragen"
+title: "Frequently Asked Questions"
 description: "this is meta description"
 subtitle : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae."
 lastmod: 2021-04-01T00:00:00
@@ -8,11 +8,11 @@ layout: "faq"
 draft: false
 menu:
   main:
-    parent: "Mehr"
-    name: "Häufige Fragen"
+    parent: "More"
+    name: "FAQ"
     weight: 3
   footer:
-    name: "Häufige Fragen"
+    name: "FAQ"
     weight: 5
 ---
 

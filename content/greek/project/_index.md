@@ -1,13 +1,13 @@
 ---
-title: "Unser Projekt"
+title: "Our Project"
 description: "this is meta description"
 draft: false
 bg_image: "images/feature-bg.jpg"
 menu:
   main:
-    name: "Projekt"
+    name: "Project"
     weight: 3
   footer:
-    name: "Projekt"
+    name: "Project"
     weight: 2
 ---
