@@ -18,7 +18,7 @@ banner:
 
 ############################# About #################################
 about:
-  enable: true
+  enable: false
   title: "About Us"
   description: "Αυτο ειναι ενα ελληνικο κειμενο χωρις τονους"
   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id."
@@ -39,7 +39,7 @@ portfolio:
   Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
   "
   button:
-    enable: true
+    enable: false
     label: "View Works"
     link: "project"
 
