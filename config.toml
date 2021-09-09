@@ -192,10 +192,10 @@ copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). All R
 
 # Navigation menus
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
-[[languages.en.menu.main]]
-hasChildren = true
-name = "More"
-weight = 5
+#[[languages.en.menu.main]]
+#hasChildren = true
+#name = ""
+#weight = 5
 
 
 ################################# French translation ##########################
@@ -239,10 +239,10 @@ copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Tutti
 
 # Navigation menus
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
-[[languages.en.menu.main]]
-hasChildren = true
-weight = 5
-name = "Επιπλέον"
+#[[languages.en.menu.main]]
+#hasChildren = true
+#weight = 5
+#name = "More"
 
 ################################# German translation ##########################
 [languages.de]

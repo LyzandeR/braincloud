@@ -6,7 +6,8 @@ lastmod: 2021-04-01T00:00:00
 bg_image: "images/feature-bg.jpg"
 layout: "faq"
 draft: false
-menu:
+#to add it back change menu5 to menu
+menu5:
   main:
     parent: "More"
     name: "FAQ"

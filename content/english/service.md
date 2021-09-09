@@ -4,7 +4,8 @@ description: "this is meta description"
 bg_image: "images/feature-bg.jpg"
 layout: "service"
 draft: false
-menu:
+#to add it back change menu5 to menu
+menu5:
   main:
     parent: "More"
     name: "Service"
