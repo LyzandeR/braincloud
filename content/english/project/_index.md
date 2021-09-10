@@ -1,13 +1,13 @@
 ---
-title: "Our Project"
-description: "this is meta description"
+title: "Our Services"
+description: "We cover the entire Analytical Spectrum with services in the areas of Business Intelligence, Data Engineering and Data Science"
 draft: false
 bg_image: "images/feature-bg.jpg"
 menu:
   main:
-    name: "Project"
+    name: "Services"
     weight: 3
   footer:
-    name: "Project"
+    name: "Services"
     weight: 2
 ---

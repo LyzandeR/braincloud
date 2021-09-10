@@ -55,24 +55,24 @@ featured_service:
 ############################# Service ###############################
 service:
   enable : true
-  title : "Our Services"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+  label : "Μαθετε Περισσοτερα"
+  title : "Οι Υπηρεσιες μας"
+  description : "Παρέχουμε εξατομικευμένες υπηρεσίες αναλυτικής στην εταιρία σας, ώστε να σας βοηθήσουμε να λάβετε καλύτερες αποφάσεις να να μεγιστοποιήσετε το κερδος σας"
   service_item:
     # service item loop
-    - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-pie-graph #ionicon pack v2 : https://ionicons.com/v2/
       name: Business Intelligence
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "Οι δείκτες που χρειάζεστε, όταν τους χρειάζεστε με τα τελευταία διαδραστικά dashboards"
 
     # service item loop
-    - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-cloud #ionicon pack v2 : https://ionicons.com/v2/
       name: Data Engineering 
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "Τέλος εποχής για spreadsheets τύπου excel. Όλα σας τα δεδομένα σε ένα μέρος, με ασφάλεια στο cloud"
 
     # service item loop
-    - icon : ion-image #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-ios-analytics #ionicon pack v2 : https://ionicons.com/v2/
       name: Data Science
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "Με τη χρήση της τεχνιτής νοημοσύνης στην εταιρία σας μπορείτε να προετοιμαστείτε για το μέλλον σήμερα"
 
     # # service item loop
     # - icon : ion-bug #ionicon pack v2 : https://ionicons.com/v2/

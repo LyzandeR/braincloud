@@ -61,13 +61,13 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 ################################# Contact page ################################
 [params.contact]
 # Address block
-phone = "0124857985320"
-email = "demo@email.com"
+phone = "+306931258169"
+email = "info@braincloud.com"
 location = """
-**Themefisher**  
-North Main Street  
-Brooklyn, New South Wales  
-Australia
+**Braincloud**  
+Aiolou 8  
+Pylaia, Thessaloniki 
+Greece
 """
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
 address_descriptors = false
@@ -87,8 +87,8 @@ success_image = "images/paper-plane.svg"
 [params.gmap]
 enable = true
 gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "40.593120"
+map_longitude = "22.976110"
 map_marker = "images/marker.png"
 
 
@@ -114,27 +114,27 @@ username = ""
 
 ################################# Social Media ################################
 [[params.social]]
-icon = "ion-social-googleplus-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#icon = "ion-social-googleplus-outline" #ionicon pack v2 : https://ionicons.com/v2/
 link = "#"
 
 [[params.social]]
-icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
 link = "#"
 
 [[params.social]]
-icon = "ion-social-pinterest-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#icon = "ion-social-pinterest-outline" #ionicon pack v2 : https://ionicons.com/v2/
 link = "#"
 
 [[params.social]]
-icon = "ion-social-dribbble-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#icon = "ion-social-dribbble-outline" #ionicon pack v2 : https://ionicons.com/v2/
 link = "#"
 
 [[params.social]]
-icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
 link = "#"
 
 [[params.social]]
-icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
 link = "#"
 
 
@@ -188,7 +188,7 @@ languageName = "English"
 languageCode = "en-US"
 contentDir = "content/english"
 weight = 1
-copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). All Rights Reserved."
+copyright = "Copyright &copy; 2021 Braincloud. All Rights Reserved."
 
 # Navigation menus
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
@@ -235,7 +235,7 @@ languageName = "Greek"
 languageCode = "gr-GR"
 contentDir = "content/greek"
 weight = 2
-copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Tutti i diritti riservati."
+copyright = "Copyright &copy; 2021 Braincloud. All Rights Reserved."
 
 # Navigation menus
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.

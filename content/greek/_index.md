@@ -1,7 +1,7 @@
 ---
 menu:
   main:
-    name: "Home"
+    name: "Αρχικη"
     weight: 1
 
 ############################### Banner ##############################
@@ -10,9 +10,9 @@ banner:
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
   title: "A Digital Marketing <br/> & Design Agency"
-  content: "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  content: ""
   button:
-    enable: true
+    enable: false
     label: "Discover Our Project"
     link: "project"
 
@@ -29,14 +29,14 @@ about:
 portfolio:
   enable: true
   bg_image: "images/feature-bg.jpg"
-  title: "WE BELIEVE IN GREAT IDEAS"
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  title: "Τα δεδομένα είναι το πετρέλαιο της εποχής μας"
+  content: " Και είμαστε εδώ ώστε να το εκμεταλλευτούμε.
 
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  Όλες οι εταιρίες παράγουν δεδομένα καθημερινά. Όμως λίγες μόνο, το αποθηκεύουν και το χρησιμοποιούν στη λήψη αποφάσεων. Στην ανταγωνιστική εποχή που ζούμε, μόνο οι εταιρίες που αντιλαμβάνονται την αξία των δεδομένων που παράγουν μπορούν να μεγιστοποιήσουν το κέρδος τους.
 
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  Ο στόχος μας είναι να βοηθήσουμε εταιρίες όλων των μεγεθών να φτάσουνε στο μέγιστο της απόδοσης που μπορούν με την ανάλυση των δεδομένων που παράγουν. Συνδυάζοντας την εμπειρία με τα δεδομένα της εταιρίας οι εταιρίες μπορούν να ελαχιστοποιήσουν τα έξοδα τους, να μεγιστοποιήσουν την απόδοση τους και να 
+  αυξήσουν την κερδοφορία τους.
   "
   button:
     enable: false
@@ -54,11 +54,11 @@ service:
 cta:
   enable: true
   bg_image: "images/call-to-action-bg.jpg"
-  title: "We design delightful digital experiences."
-  content: "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  title: "Τα Δεδομένα μιας Εταιρίας Κρύβουν μία Ιστορία"
+  content: "Συμφωνεί όμως η ιστορία της εταιρίας σας με την  ιστορία των δεδομένων σας; Η έμπειρη μας ομάδα μπορεί να σας βοηθήσει να το ανακαλύψετε."
   button:
     enable: true
-    label: "Tell Us Your Story"
+    label: "Πειτε μας την ιστορια σας"
     link: "contact"
 
 ############################# Funfacts ###############################

@@ -56,23 +56,23 @@ featured_service:
 service:
   enable : true
   title : "Our Services"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+  label : "Find out More"
+  description : "We offer personalised analytical services to your business to help you make better decisions and maximise your profit"
   service_item:
     # service item loop
-    - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-pie-graph #ionicon pack v2 : https://ionicons.com/v2/
       name: Business Intelligence 
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "The numbers you need, whenever you need them using the latest interactive Dashboards"
 
     # service item loop
-    - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-cloud #ionicon pack v2 : https://ionicons.com/v2/
       name: Data Engineering
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "No more local speadsheets. All your data in one cloud database"
 
     # service item loop
-    - icon : ion-image #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-ios-analytics #ionicon pack v2 : https://ionicons.com/v2/
       name: Data Science
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "Understand your future today. Using Artificial Intelligence, your data can optimise your decisions"
 
     # # service item loop
     # - icon : ion-bug #ionicon pack v2 : https://ionicons.com/v2/

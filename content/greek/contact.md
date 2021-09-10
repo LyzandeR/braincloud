@@ -1,14 +1,14 @@
 ---
-title: "Drop Us A Note"
-description: "this is meta description"
+title: "Επικοινωνήστε Μαζί μας"
+description: ""
 bg_image: "images/feature-bg.jpg"
 layout: "contact"
 draft: false
 menu:
   main:
-    name: "Contact"
+    name: "Επικοινωνια"
     weight: 6
   footer:
-    name: "Contact"
+    name: "Επικοινωνία"
     weight: 6
 ---

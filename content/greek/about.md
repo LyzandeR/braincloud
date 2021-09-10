@@ -1,15 +1,15 @@
 ---
-title: "About Our Company"
-description: "this is meta description"
+title: "Καλώς ήρθατε στην Braincloud"
+description: "Οι Ειδικοί της Αναλυτικής"
 bg_image: "images/feature-bg.jpg"
 layout: "about"
 draft: false
 menu:
   main:
-    name: "About"
+    name: "Εταιρια"
     weight: 2
   footer:
-    name: "About"
+    name: "Εταιρία"
     weight: 1
 
 
@@ -17,13 +17,12 @@ menu:
 about:
   enable : true
   image : "images/company/about.jpg"
-  title : "We strive to be the best and <br> make awesome work."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
+  title : "Η Ιστορία μας"
+  content : "
 
+  Η ιστορία της Braincloud ξεκίνησε πριν από περίπου 10 χρόνια στο κέντρο της καινοτομίας της τεχνολογίας, στο Λονδίνο. Εκεί οι δύο ιδρυτές της εταιρίας, ο Χρήστος Πετρίδης και ο Θοδωρής Μπουτάρης άρχισαν να βοηθούν επιχειρήσεις να χρησιμοποιούν τα δεδομένα τους ώστε να παίρνουν καλύτερες αποφάσεις.
 
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-  velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-  dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+  Κατά τη διάρκεια της καριέρας τους δούλεψαν σε διαφορετικές εταιρίες απο φαρμακευτικές και τράπεζες μέχρι εταιρίες λιανικής και μάρκετινγκ. Αυτό που κατάλαβαν είναι ότι η τελευταία λέξη της τεχνολογίας στην αναλυτική μπορεί να εφαρμοστεί σε οποιαδήποτε εταιρία, οπουδήποτε. Έτσι πήραν την απόφαση να ιδρύσουν την Braincloud στην καρδιά της Θεσσαλονίκης, στην πόλη από την οποία προέρχονται."
 
   button:
     enable : false
@@ -108,37 +107,18 @@ mission_vision:
   
   tabs:
   # tab item loop
-  - name : "Vision"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
+  - name : "Όραμα"
+    content : "
+    Το όραμα της Braincloud είναι να εδραιωθεί ως ο Στρατηγικός συνεργάτης των πελατών της, βοηθώντας τους να λάβουν αποφάσεις χρησιμοποιώντας την ανάλυση των δεδομένων και την τεχνιτή νοημοσύνη. Αυτός είναι ο μόνος τρόπος για τις εταιρίες να καρποφορήσουν στον ανταγωνιστικό και ψηφιακό κόσμο του σήμερα. 
+    "
 
   # tab item loop
-  - name : "Mission"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
+  - name : "Αποστολή"
+    content : "Η αποστολή της Braincloud είναι να μεγιστοποιήση την κερδοφορία των πελατών της. Ο λόγος που μας εμπιστεύονται οι πελάτες μας είναι επειδή ενισχύουμε την λήψη αποφάσεων τους ώστε να αυξήσουμε την κερδοφορία τους."
 
   # tab item loop
-  - name : "Approach"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
+  - name : "Μέθοδος"
+    content : "Για να εκπληρώσει την αποστολή της, η Braincloud χρησιμοποιεί την τελευταία λέξη της τεχνολογίας στον τομέα της Αναλυτικής και της Τεχνιτής Νοημοσύνης."
 
 
 ############################# call to action #################################

@@ -9,11 +9,11 @@ banner:
   enable: true
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
-  title: "A Digital Marketing <br/> & Design Agency"
-  content: "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  title: "Data Analytics & Artificial Intelligence Experts"
+  content: ""
   button:
-    enable: true
-    label: "Discover Our Project"
+    enable: false
+    label: "Our Services"
     link: "project"
 
 ############################# About #################################
@@ -29,14 +29,16 @@ about:
 portfolio:
   enable: true
   bg_image: "images/feature-bg.jpg"
-  title: "WE BELIEVE IN GREAT IDEAS"
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  title: "Data is the new Oil"
+  content: " And we are here to extract it. 
 
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  All the companies generate data daily. But only a few extract, store and analyse that data in order to make decisions. In the competitive market
+  that we live in, only the companies that understand their data can maximise their profit.
 
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  Our goal is to help businesses of all sizes reach their full potential by analysing the data they generate. Combining experience with the data insights
+  companies can reduce costs, maximise performance and increase profitability.
   "
   button:
     enable: false
@@ -47,6 +49,10 @@ portfolio:
 ############################# Service ############################
 service:
   enable: true
+  button:
+    enable: true
+    label: "Find out more"
+    link: "Services"
   # service content comes from "service.md" file
 
 
@@ -54,8 +60,8 @@ service:
 cta:
   enable: true
   bg_image: "images/call-to-action-bg.jpg"
-  title: "We design delightful digital experiences."
-  content: "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  title: "Every Business has a Data Story to tell"
+  content: "Is your Business Story the same as your Data Story? Our experienced team is here to help you find out."
   button:
     enable: true
     label: "Tell Us Your Story"

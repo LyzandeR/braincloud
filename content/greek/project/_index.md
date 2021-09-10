@@ -1,13 +1,13 @@
 ---
-title: "Our Project"
-description: "this is meta description"
+title: "Οι Υπηρεσίες μας"
+description: "Καλύπτουμε όλο το φάσμα των αναλυτικών υπηρεσιών με τους τομείς του Business Intelligence, Data Engineering και Data Science"
 draft: false
 bg_image: "images/feature-bg.jpg"
 menu:
   main:
-    name: "Project"
+    name: "Υπηρεσιες"
     weight: 3
   footer:
-    name: "Project"
+    name: "Υπηρεσίες"
     weight: 2
 ---
