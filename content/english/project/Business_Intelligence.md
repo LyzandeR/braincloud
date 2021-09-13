@@ -1,26 +1,25 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
+title: "Business Intelligence"
+description: "The Art of Dashboarding"
 draft: false
 image : "images/portfolio/work1.jpg"
 bg_image: "images/feature-bg.jpg"
 category: [ "UI/UX Design", "Video" ]
 information:
-  - label : "Client"
-    info : "Jannie Kelonsky"
-  - label : "What We Did"
-    info : "Website Redesign"
-  - label : "Tools Used"
-    info : "Photoshop,Illustrator"
-  - label : "Completed on"
-    info : "17th March 2014"
-  - label : "Skills"
-    info : "HTML5 / PHP / CSS3"
-  - label : "Client"
-    info : "Jannie Kelonsky"
+  - label : "Keywords"
+    info : "Dashboard, Chart, KPI"
+  - label : "Tools"
+    info : "Tablaeu, PowerBI, R-Shiny"
+  - label : "Interactive"
+    info : '<i class="icon ion-checkmark"></i>'
+  - label : "Cloud"
+    info : '<i class="icon ion-checkmark"></i>'
+  - label : "User Friendly"
+    info : '<i class="icon ion-checkmark"></i>'
+
 ---
 
-## Behance Website Redesign
+## Business Intelligence
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
 reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
