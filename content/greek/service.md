@@ -70,14 +70,14 @@ service:
       content: "Τέλος εποχής για spreadsheets τύπου excel. Όλα σας τα δεδομένα σε ένα μέρος, με ασφάλεια στο cloud"
 
     # service item loop
-    - icon : ion-ios-analytics #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-arrow-graph-up-right #ionicon pack v2 : https://ionicons.com/v2/
       name: Data Science
       content: "Με τη χρήση της τεχνιτής νοημοσύνης στην εταιρία σας μπορείτε να προετοιμαστείτε για το μέλλον σήμερα"
 
-    # # service item loop
-    # - icon : ion-bug #ionicon pack v2 : https://ionicons.com/v2/
-    #   name: Start Up
-    #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+     # service item loop
+    - icon : ion-university #ionicon pack v2 : https://ionicons.com/v2/
+      name: Σεμινάρια
+      content: "Έχετε ήδη ομάδα; Αναλαμβάνουμε την εξατομικευμένη εκπαίδευση του προσωπικού σας για οποιοδήποτε θέμα αναλυτικής"
 
     # # service item loop
     # - icon : ion-headphone #ionicon pack v2 : https://ionicons.com/v2/

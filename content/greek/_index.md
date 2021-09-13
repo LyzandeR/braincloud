@@ -8,7 +8,7 @@ menu:
 banner:
   enable: true
   bg_image: "images/slider-bg.jpg"
-  bg_overlay: true
+  bg_overlay: false
   title: "A Digital Marketing <br/> & Design Agency"
   content: ""
   button:

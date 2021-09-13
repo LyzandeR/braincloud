@@ -70,14 +70,14 @@ service:
       content: "No more local speadsheets. All your data in one cloud database"
 
     # service item loop
-    - icon : ion-ios-analytics #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-arrow-graph-up-right #ionicon pack v2 : https://ionicons.com/v2/
       name: Data Science
       content: "Understand your future today. Using Artificial Intelligence, your data can optimise your decisions"
 
-    # # service item loop
-    # - icon : ion-bug #ionicon pack v2 : https://ionicons.com/v2/
-    #   name: Start Up
-    #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    # service item loop
+    - icon : ion-university #ionicon pack v2 : https://ionicons.com/v2/
+      name: Analytics Training
+      content: "Do you already have a team? We offer personalised training on a range of analytical topics"
 
     # # service item loop
     # - icon : ion-headphone #ionicon pack v2 : https://ionicons.com/v2/
