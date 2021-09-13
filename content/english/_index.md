@@ -9,7 +9,7 @@ banner:
   enable: true
   bg_image: "images/slider-bg.jpg"
   bg_overlay: false
-  title: "Data Analytics & Artificial Intelligence Experts"
+  title: "**Data Analytics & Artificial Intelligence Experts**"
   content: ""
   button:
     enable: false

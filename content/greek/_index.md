@@ -9,7 +9,7 @@ banner:
   enable: true
   bg_image: "images/slider-bg.jpg"
   bg_overlay: false
-  title: "A Digital Marketing <br/> & Design Agency"
+  title: "**DATA ANALYTICS & ARTIFICIAL INTELLIGENCE EXPERTS**"
   content: ""
   button:
     enable: false
