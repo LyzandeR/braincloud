@@ -76,7 +76,7 @@ service:
 
      # service item loop
     - icon : ion-university #ionicon pack v2 : https://ionicons.com/v2/
-      name: Σεμινάρια
+      name: Σεμιναρια
       content: "Έχετε ήδη ομάδα; Αναλαμβάνουμε την εξατομικευμένη εκπαίδευση του προσωπικού σας για οποιοδήποτε θέμα αναλυτικής"
 
     # # service item loop
