@@ -61,12 +61,14 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 ################################# Contact page ################################
 [params.contact]
 # Address block
-phone = "+306931258169"
-email = "info@braincloud.com"
+phone = "+30 6931258169"
+phone2 = "+44 7935567540"
+email = "info@braincloudanalytics.com"
 location = """
-**Braincloud**  
-Aiolou 8  
-Pylaia, Thessaloniki 
+**Braincloud Analytics**  
+Aiolou 8 <br>
+Pylaia <br>
+Thessaloniki, 55535  <br>
 Greece
 """
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
@@ -188,7 +190,7 @@ languageName = "English"
 languageCode = "en-US"
 contentDir = "content/english"
 weight = 1
-copyright = "Copyright &copy; 2021 Braincloud. All Rights Reserved."
+copyright = "Copyright &copy; 2021 Braincloud Analytics. All Rights Reserved."
 
 # Navigation menus
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
@@ -235,7 +237,7 @@ languageName = "Greek"
 languageCode = "gr-GR"
 contentDir = "content/greek"
 weight = 2
-copyright = "Copyright &copy; 2021 Braincloud. All Rights Reserved."
+copyright = "Copyright &copy; 2021 Braincloud Analytics. All Rights Reserved."
 
 # Navigation menus
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
