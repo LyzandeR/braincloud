@@ -11,7 +11,7 @@ information:
   - label : "What We Did"
     info : "Website Redesign"
   - label : "Tools Used"
-    info : "Photoshop,Illustrator"
+    info : "AWS, GCP"
   - label : "Completed on"
     info : "17th March 2014"
   - label : "Skills"
@@ -20,7 +20,7 @@ information:
     info : "Jannie Kelonsky"
 ---
 
-## Behance Website Redesign
+## Data Engineering
 
 
 <h3> Objective </h3>
