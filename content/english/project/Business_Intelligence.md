@@ -36,7 +36,7 @@ sessions so your team can fully understand and interact with the dashboard
 Understanding your historical performance can help celebrate successes and learn from mistakes.
 This way you can take better decisions (you don't need this product which doesn't generate a good margin!) and increase profitability for the future.
 
-<h3> Εργαλεία </h3>
+<h3> Tools </h3>
 Our team of experts uses the following tech stack: 
 
 <ol>
