@@ -17,6 +17,7 @@ menu:
 about:
   enable : true
   image : "images/company/about.jpg"
+  image2: "images/company/about2.jpg"
   title : "Our Story"
   content : "Braincloud's story began almost 10 years ago in the center of data innovation, London. It is where the two
   co-founders Christos Petridis and Theo Boutaris started assisting businesses to utilise their data and make better decisions.
@@ -106,7 +107,8 @@ testimonial:
 mission_vision:
   enable : true
   image : "images/company/about.jpg"
-
+  image2 : "images/company/about2.jpg"
+  
   tabs:
   # tab item loop
   - name : "Vision"

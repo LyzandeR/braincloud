@@ -104,6 +104,7 @@ testimonial:
 mission_vision:
   enable : true
   image : "images/company/about.jpg"
+  image2 : "images/company/about2.jpg"
   
   tabs:
   # tab item loop
