@@ -93,7 +93,7 @@ gmap_api = "AIzaSyAHs79vrtylpILALWcTldY49B_cYF4fdSA"
 
 map_latitude = "40.593120"
 map_longitude = "22.976110"
-map_marker = "images/red_marker.png"
+map_marker = "images/marker.png"
 
 
 ################################# Preloader ###################################
