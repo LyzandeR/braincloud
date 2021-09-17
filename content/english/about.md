@@ -112,18 +112,21 @@ mission_vision:
   tabs:
   # tab item loop
   - name : "Vision"
+    display_name: "Vision"
     content : "Braincloud's vision is to be the Strategic Data Partner of its clients supporting their decision making using the power of Data, Analytics and Artificial Intelligence. 
 
     Partnering with Data and Analytics and embracing it in every day activity is the only way to prosper in the digital and competitive world that we live in"
 
   # tab item loop
   - name : "Mission"
+    display_name: "Mission"
     content : "Braincloud's mission is to increase the profitability of its clients. 
 
     The reason our clients trust us, is because we use cutting edge technology to support their decision making in order to increase profitability."
 
   # tab item loop
   - name : "Approach"
+    display_name: "Approach"
     content : "To fulfil its mission, Braincloud uses cutting edge cloud technology in the space of Analytics and Artificial Intelligence. "
 
 
