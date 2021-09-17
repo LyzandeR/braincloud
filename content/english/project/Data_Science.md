@@ -11,11 +11,11 @@ information:
   - label : "Tools"
     info : "Python, R"
   - label : "Interactive"
-    info : '<i class="icon ion-checkmark"></i>'
+    info : '<i class="icon ion-close"></i>'
   - label : "Cloud"
     info : '<i class="icon ion-checkmark"></i>'
   - label : "User Friendly"
-    info : '<i class="icon ion-checkmark"></i>'
+    info : '<i class="icon ion-close"></i>'
 
 ---
 
@@ -23,27 +23,23 @@ information:
 
 <h3> Objective </h3>
 
-The purpose of Data science is to turn data into actions. Explore all hidden information that lies within the data, and provide useful insights.
-
-We can use forecasting methods to predict future KPIs such as sales, Whether you are interested in daily Revenue, hourly Website Traffic or any other KPI, we are here to calculate and present when you need it
-and as often as you need it.
-
-Our team of experts will contruct the dashboard, connect it to your data bases and calculate the KPIs you need! We also provide training
-sessions so your team can fully understand and interact with the dashboard
+The purpose of Data science is to turn data into actions. We can use forecasting methods to predict future KPIs such as sales or stock, we can segment customers based on their characteristics, identify prime locations to open new branches, recommend the best products to individual customers... or whatever you wish for.
 
 <h3> Benefit </h3>
 
-Understanding your historical performance can help celebrate successes and learn from mistakes.
-This way you can take better decisions (you don't need this product which doesn't generate a good margin!) and increase profitability for the future.
+Learning from historical data can help unveil future patterns.
+You can train models to forecast future behaviour, optimise space, cluster  and adapt or drive your decision making to increase profitability.
+Tell us what you are trying to solve, and leave it up to us. the solution lies in your data.
 
 <h3> Tools </h3>
-Our team of experts uses the following tech stack: 
+
+Our team of experts uses R and Python as the two main programming languages and the following models: 
 
 <ol>
-  <li>Statistics</li>
-  <li>Supervised Machine Learning</li>
-  <li>Unsupervised Machine Learning</li>
-  <li>Artificial Intelligence</li>
+  <li>Statistics</li> Hypothesis testing, A/B testing
+  <li>Supervised Machine Learning</li> Regression model, classification model
+  <li>Unsupervised Machine Learning</li> Clustering algorithms, Optimisation models
+  <li>Artificial Intelligence</li> Natural Language Processing, Deep learning
 </ol>
 
-If you already have a tech stack in your organisation, we are happy to provide a solution based on your tech stack!
+We are always curious to find solutions in complex problems. It's our drive to utilise unstructured data and convert it to useful insights.

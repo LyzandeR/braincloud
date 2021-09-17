@@ -6,32 +6,38 @@ image : "images/portfolio/work2.jpg"
 bg_image: "images/feature-bg.jpg"
 category: "Illustration"
 information:
-  - label : "Client"
-    info : "Jannie Kelonsky"
-  - label : "What We Did"
-    info : "Website Redesign"
-  - label : "Tools Used"
-    info : "AWS, GCP"
-  - label : "Completed on"
-    info : "17th March 2014"
-  - label : "Skills"
-    info : "HTML5 / PHP / CSS3"
-  - label : "Client"
-    info : "Jannie Kelonsky"
+  - label : "Keywords"
+    info : "Cloud, Database, Data lake"
+  - label : "Tools"
+    info : "AWS, GCP, PostgreSQL"
+  - label : "Interactive"
+    info : '<i class="icon ion-close"></i>'
+  - label : "Cloud"
+    info : '<i class="icon ion-checkmark"></i>'
+  - label : "User Friendly"
+    info : '<i class="icon ion-close"></i>'
+
 ---
 
 ## Data Engineering
 
 
 <h3> Objective </h3>
-We offer different solutions for the needs of your company to enable your data analytics and data science capabilities.
-No more excel sheets with no way of keeping track of changes coming from multiple users.
-We design and deploy cloud solutions for your data to be stored. 
+
+Data engineering sits at the heart of every data driven company and enables the process of designing and building pipelines to transform and transport data into a format that is easy to use for other end users. Leveraging our deep knowledge of the whole data journey, we identify the exact needs of your company and design the optimal solution to enable your data analytics and data science capabilities.
 
 <h3> Benefit </h3>
-Leveraging our deep knowledge of the whole data journey, we identify the exact needs of your company and design the optimal solution for your data system.
-Data orchestration, pipelines, cloud services, automation of processes are some of the solutions we are currently offering.
 
+No more excel sheets with no way of keeping track of changes coming from multiple users. We design and deploy cloud solutions for your data to be stored and utilised. 
 
 <h3> Tools </h3>
-Data engineering sits at the heart of every data driven company and enables the process of designing and building pipelines to transform and transport data into a format that is easy to use for other end users.
+
+Our team of experts uses the following tech stack: 
+
+<ol>
+  <li>AWS</li>
+  <li>GCP</li>
+  <li>PostgreSQL</li>
+</ol>
+
+Data orchestration, pipelines, cloud services, automation of processes are some of the solutions we are currently offering.
