@@ -10,12 +10,12 @@ information:
     info : "Machine learning, Statistics, Artificial Intelligence"
   - label : "Tools"
     info : "Python, R"
-  - label : "Interactive"
-    info : '<i class="icon ion-close"></i>'
+  - label : "Predictive"
+    info : '<i class="icon ion-checkmark"></i>'
   - label : "Cloud"
     info : '<i class="icon ion-checkmark"></i>'
-  - label : "User Friendly"
-    info : '<i class="icon ion-close"></i>'
+  - label : "Explainable"
+    info : '<i class="icon ion-checkmark"></i>'
 
 ---
 
@@ -32,13 +32,13 @@ information:
 
 <h3> Tools </h3>
 
-Η εξειδικευμένη ομάδα μας χρησιμοποιεί τις γλώσσες προγραμματισμού R and Python ¨ωστε να χτίσει μοντέλα στατιστικής ανάλυσης, μηχανικής εκμάθησης, και τεχνιτής νοημοσύνης: 
+Η εξειδικευμένη ομάδα μας χρησιμοποιεί τις γλώσσες προγραμματισμού R and Python ώστε να χτίσει μοντέλα στατιστικής ανάλυσης, μηχανικής εκμάθησης, και τεχνιτής νοημοσύνης: 
 
 <ol>
   <li>Statistics</li> Hypothesis testing, A/B testing
   <li>Supervised Machine Learning</li> Regression model, classification model
   <li>Unsupervised Machine Learning</li> Clustering algorithms, Optimisation models
-  <li>Artificial Intelligence</li> Natural Language Processing, Deep learning
+  <li>Τεχνιτή νοημοσύνη</li> Natural Language Processing, Deep learning
 </ol>
 
-Είμαστε διψασμένοι για βρίσκουμε λύσεις στα πιο περίπλοκα προβλήματα. Μας δίνει ώθηση να χρησιμοποιούμε δεδομένα και να τα μετατρέπουμε σε χρήσιμες πληροφορίες
+Είμαστε διψασμένοι για βρίσκουμε λύσεις στα πιο περίπλοκα προβλήματα. Μας δίνει ώθηση να χρησιμοποιούμε δεδομένα και να τα μετατρέπουμε σε χρήσιμες πληροφορίες.

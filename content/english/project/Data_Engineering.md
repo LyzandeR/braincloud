@@ -1,26 +1,25 @@
 ---
 title: "Data Engineering"
-description: "Cloud Perfection"
+description: "Databases should be easy"
 draft: false
 image : "images/portfolio/work2.jpg"
 bg_image: "images/feature-bg.jpg"
 category: "Illustration"
 information:
   - label : "Keywords"
-    info : "Cloud, Database, Data lake"
+    info : "Database, Cloud, Data-lake"
   - label : "Tools"
     info : "AWS, GCP, PostgreSQL"
-  - label : "Interactive"
-    info : '<i class="icon ion-close"></i>'
+  - label : "Database"
+    info : '<i class="icon ion-checkmark"></i>'
   - label : "Cloud"
     info : '<i class="icon ion-checkmark"></i>'
-  - label : "User Friendly"
-    info : '<i class="icon ion-close"></i>'
+  - label : "Automation"
+    info : '<i class="icon ion-checkmark"></i>'
 
 ---
 
 ## Data Engineering
-
 
 <h3> Objective </h3>
 

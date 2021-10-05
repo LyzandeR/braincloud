@@ -1,48 +1,41 @@
 ---
-title: "Rio Furniture 2"
-description: "The Art of Dashboarding"
+title: "Data Engineering"
+description: "Databases should be easy"
 draft: false
-image : "images/portfolio/work1.jpg"
+image : "images/portfolio/work2.jpg"
 bg_image: "images/feature-bg.jpg"
-category: [ "UI/UX Design", "Video" ]
+category: "Illustration"
 information:
   - label : "Keywords"
-    info : "Dashboard, Chart, KPI"
+    info : "Database, Cloud, Data-lake"
   - label : "Tools"
-    info : "Tableau, PowerBI, R-Shiny"
-  - label : "Interactive"
+    info : "AWS, GCP, PostgreSQL"
+  - label : "Database"
     info : '<i class="icon ion-checkmark"></i>'
   - label : "Cloud"
     info : '<i class="icon ion-checkmark"></i>'
-  - label : "Φιλικό προς το Χρήστη"
+  - label : "Automation"
     info : '<i class="icon ion-checkmark"></i>'
 
 ---
 
-## Business Intelligence
+## Data Engineering
 
-<h3> Objective </h3>
+<h3> Στόχος </h3>
 
-The purpose of Business Intelligence is to help the company keep track of all the important KPIs (e.g. Sales, Website Visitors, Margin, etc.) 
+Το Data engineering βρήσκεται στον πυρήνα κάθε επιχείρησης που βασίζει τη στρατηγική της και την λήψη αποφάσεων πάνω στα δεδομένα της. Είναι ο τομέας που επιτρέπει τις διαδικασίες σχεδιασμού και δημιουργίας βάσεων δεδομένων και αυτοματοποιημένων συστημάτων αποθήκευσης και επεξεργασίας δεδωμένων με απότερο σκοπό δη διευκόλυνση του εκάστοτε χρήστη. Εκμεταλλευόμενοι την εμπειρία μας και τις γνώσεις μας πάνω σε ολόκληρο το "ταξίδι" των δεδομένων, ανακαλύπτουμε τις ακριβείς ανάγκες της εταιρίας σας και σχεδιάζουμε και παραδίδουμε την ιδανική λύση για την μετέπειτα ασφαλέστερη, ακριβέστερη, και ευκολότερη χρήση αναλυτικής ή επιστήμης δεδομένων.
 
-Whether you are interested in daily Revenue, hourly Website Traffic or any other KPI, we are here to calculate and present when you need it
-and as often as you need it.
+<h3> Ώφελος </h3>
 
-Our team of experts will contruct the dashboard, connect it to your data bases and calculate the KPIs you need! We also provide training
-sessions so your team can fully understand and interact with the dashboard
+Τέρμα στα αρχεία excel απο πάσα κατευθυνση χωρίς τροπο διευθέτισης και καταγραφής των αλλαγών που προέρχονται από πολλαπλούς χρήστες. Δημιουργούμε και παρέχουμε βάσεις δεδομένων στο cloud για την ασφαλή αποθήκευση των δεδομένων σας.
 
-<h3> Benefit </h3>
-
-Understanding your historical performance can help celebrate successes and learn from mistakes.
-This way you can take better decisions (you don't need this product which doesn't generate a good margin!) and increase profitability for the future.
-
-<h3> Tools </h3>
-Our team of experts uses the following tech stack: 
+<h3> Εργαλεία </h3>
+Η ομάδα των ειδικών μας εξειδικεύεται στα παρακάτω εργαλεία:
 
 <ol>
-  <li>R-Shiny</li>
-  <li>Tableau</li>
-  <li>PowerBI</li>
+  <li>AWS</li>
+  <li>GCP</li>
+  <li>PostgreSQL</li>
 </ol>
 
-If you already have a tech stack in your organisation, we are happy to provide a solution based on your tech stack!
+Η ενορχήστρωση των δεδομένων σας, αναλυτικές ακολουθίες, υπηρεσίες cloud computing, και αυτοματοποίηση διαδικασιών είναι ορισμένες απο τις λύσεις που προσφέρουμε.

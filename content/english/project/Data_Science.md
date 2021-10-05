@@ -10,12 +10,12 @@ information:
     info : "Machine learning, Statistics, Artificial Intelligence"
   - label : "Tools"
     info : "Python, R"
-  - label : "Interactive"
-    info : '<i class="icon ion-close"></i>'
+  - label : "Predictive"
+    info : '<i class="icon ion-checkmark"></i>'
   - label : "Cloud"
     info : '<i class="icon ion-checkmark"></i>'
-  - label : "User Friendly"
-    info : '<i class="icon ion-close"></i>'
+  - label : "Explainable"
+    info : '<i class="icon ion-checkmark"></i>'
 
 ---
 
