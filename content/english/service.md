@@ -57,6 +57,7 @@ service:
   enable : true
   title : "Our Services"
   label : "Find out More"
+  button_link : "/project"
   description : "We offer personalised analytical services to your business to help you make better decisions and maximise your profit"
   service_item:
     # service item loop

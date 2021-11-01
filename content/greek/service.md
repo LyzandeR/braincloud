@@ -56,8 +56,9 @@ featured_service:
 service:
   enable : true
   label : "Μαθετε Περισσοτερα"
+  button_link : "/gr/project"
   title : "Οι Υπηρεσιες μας"
-  description : "Παρέχουμε εξατομικευμένες υπηρεσίες αναλυτικής στην εταιρία σας, ώστε να σας βοηθήσουμε να λάβετε καλύτερες αποφάσεις να να μεγιστοποιήσετε το κερδος σας"
+  description : "Παρέχουμε εξατομικευμένες υπηρεσίες αναλυτικής, ώστε να σας βοηθήσουμε να λάβετε καλύτερες αποφάσεις και να μεγιστοποιήσετε το κέρδος σας"
   service_item:
     # service item loop
     - icon : ion-pie-graph #ionicon pack v2 : https://ionicons.com/v2/
@@ -72,12 +73,12 @@ service:
     # service item loop
     - icon : ion-arrow-graph-up-right #ionicon pack v2 : https://ionicons.com/v2/
       name: Data Science
-      content: "Με τη χρήση της τεχνιτής νοημοσύνης στην εταιρία σας μπορείτε να προετοιμαστείτε για το μέλλον σήμερα"
+      content: "Με τη χρήση της τεχνητής νοημοσύνης, οι αποφάσεις για το μέλλον θα έχουν πολύ λιγότερο ρίσκο"
 
      # service item loop
     - icon : ion-university #ionicon pack v2 : https://ionicons.com/v2/
       name: Σεμιναρια
-      content: "Έχετε ήδη ομάδα; Αναλαμβάνουμε την εξατομικευμένη εκπαίδευση του προσωπικού σας για οποιοδήποτε θέμα αναλυτικής"
+      content: "Αναλαμβάνουμε την εξατομικευμένη εκπαίδευση του προσωπικού σας για οποιοδήποτε θέμα αναλυτικής"
 
     # # service item loop
     # - icon : ion-headphone #ionicon pack v2 : https://ionicons.com/v2/
