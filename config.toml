@@ -66,9 +66,9 @@ phone2 = "+44 7935567540"
 email = "info@braincloudanalytics.com"
 location = """
 **Braincloud Analytics**  
-Aiolou 8 <br>
-Pylaia <br>
-Thessaloniki, 55535  <br>
+Megalou Alexandrou 43 <br>
+Evosmos <br>
+Thessaloniki, 56224  <br>
 Greece
 """
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
@@ -91,8 +91,8 @@ success_image = "images/paper-plane.svg"
 enable = true
 gmap_api = "AIzaSyAHs79vrtylpILALWcTldY49B_cYF4fdSA"
 
-map_latitude = "40.593120"
-map_longitude = "22.976110"
+map_latitude = "40.669747"
+map_longitude = "22.907551"
 map_marker = "images/marker.png"
 
 
@@ -192,8 +192,7 @@ languageName = "English"
 languageCode = "en-US"
 contentDir = "content/english"
 weight = 1
-copyright = "Copyright &copy; 2021 Braincloud Analytics. All Rights Reserved."
-
+copyright = "Copyright &copy; 2021 Braincloud Analytics, part of Lyzander Analytics IKE, VAT number: 801633362. All Rights Reserved."
 # Navigation menus
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
 #[[languages.en.menu.main]]
@@ -239,7 +238,7 @@ languageName = "Greek"
 languageCode = "gr-GR"
 contentDir = "content/greek"
 weight = 2
-copyright = "Copyright &copy; 2021 Braincloud Analytics. All Rights Reserved."
+copyright = "Copyright &copy; 2021 Braincloud Analytics, part of Lyzander Analytics IKE, VAT number: 801633362. All Rights Reserved."
 
 # Navigation menus
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
