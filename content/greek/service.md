@@ -58,7 +58,7 @@ service:
   label : "Μαθετε Περισσοτερα"
   button_link : "/gr/project"
   title : "Οι Υπηρεσιες μας"
-  description : "Παρέχουμε εξατομικευμένες υπηρεσίες αναλυτικής, ώστε να σας βοηθήσουμε να λάβετε καλύτερες αποφάσεις και να μεγιστοποιήσετε το κέρδος σας"
+  description : ""
   service_item:
     # service item loop
     - icon : ion-pie-graph #ionicon pack v2 : https://ionicons.com/v2/
