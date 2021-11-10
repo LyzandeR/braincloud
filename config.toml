@@ -14,7 +14,7 @@ disableLanguages = ["it", "de", "fr"]
 # Short name to enable Disqus comments
 disqusShortname = "" # Get your shortname from here: https://disqus.com/profile/signup/
 # Measurement ID (G-XXXXXXX) to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "G-MTWQYR1D8K"
 
 
 ############################# Modules ##############################
