@@ -19,8 +19,8 @@ about:
   image : "images/company/about.jpg"
   image2: "images/company/about2.jpg"
   title : "Our Story"
-  content : "Braincloud's story began almost 10 years ago in the center of data innovation, London. It is where the two
-  co-founders Christos Petridis and Theo Boutaris started assisting businesses to utilise their data and make better decisions.
+  content : "Braincloud's story began almost 10 years ago in the center of data innovation, London. It is where the 
+  co-founders started assisting businesses to utilise their data and make better decisions.
 
 
   In the past years they have both worked in various industies ranging from pharma and banking to retail and marketing. What they 
