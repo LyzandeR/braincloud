@@ -33,7 +33,7 @@ portfolio:
   content: " And we are here to extract it. 
 
 
-  All the companies generate data daily. But only a few extract, store and analyse that data in order to make decisions. In the competitive market
+  All companies generate data daily. But only a few extract, store and analyse that data in order to make decisions. In the competitive market
   that we live in, only the companies that understand their data can maximise their profit.
 
 
