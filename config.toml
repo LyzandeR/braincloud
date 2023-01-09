@@ -192,7 +192,7 @@ languageName = "English"
 languageCode = "en-US"
 contentDir = "content/english"
 weight = 1
-copyright = "Copyright &copy; 2023 Braincloud Analytics, part of Lyzander Analytics IKE, VAT number: 801633362. All Rights Reserved."
+copyright = "Copyright &copy; 2023 Braincloud Analytics. All Rights Reserved."
 # Navigation menus
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
 #[[languages.en.menu.main]]
