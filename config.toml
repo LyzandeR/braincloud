@@ -238,7 +238,7 @@ languageName = "Greek"
 languageCode = "gr-GR"
 contentDir = "content/greek"
 weight = 2
-copyright = "Copyright &copy; 2021 Braincloud Analytics, part of Lyzander Analytics IKE, VAT number: 801633362. All Rights Reserved."
+copyright = "Copyright &copy; 2023 Braincloud Analytics. All Rights Reserved."
 
 # Navigation menus
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
