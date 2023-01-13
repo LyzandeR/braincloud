@@ -61,14 +61,14 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 ################################# Contact page ################################
 [params.contact]
 # Address block
-phone = "+30 6931258169"
-phone2 = "+44 7935567540"
+phone = "+30 6975535411"
+phone2 = "+44 7982421294"
 email = "info@braincloudanalytics.com"
 location = """
 **Braincloud Analytics**  
-Megalou Alexandrou 43 <br>
-Evosmos <br>
-Thessaloniki, 56224  <br>
+Aiolou 8 <br>
+Pylaia <br>
+Thessaloniki, 55535  <br>
 Greece
 """
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
@@ -91,8 +91,8 @@ success_image = "images/paper-plane.svg"
 enable = true
 gmap_api = "AIzaSyAHs79vrtylpILALWcTldY49B_cYF4fdSA"
 
-map_latitude = "40.669747"
-map_longitude = "22.907551"
+map_latitude = "40.5931944"
+map_longitude = "22.976061"
 map_marker = "images/marker.png"
 
 

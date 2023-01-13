@@ -33,12 +33,10 @@ portfolio:
   content: " And we are here to extract it. 
 
 
-  All companies generate data daily. But only a few extract, store and analyse that data in order to make decisions. In the competitive market
-  that we live in, only the companies that understand their data can maximise their profit.
+  All companies generate data daily. But only a few extract, store and analyse that data in order to make decisions. In today's competitive market only the companies that understand their data can maximise their profit.
 
 
-  Our goal is to help businesses of all sizes reach their full potential by analysing the data they generate. Combining experience with the data insights
-  companies can reduce costs, maximise performance and increase profitability.
+  Our goal is to help businesses of all sizes reach their full potential by analysing the data they generate. Combining experience with the data insights companies can reduce costs, maximise performance and increase profitability.
   "
   button:
     enable: false
